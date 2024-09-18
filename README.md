@@ -15,6 +15,7 @@
   - [Query Troubleshoot](#query-troubleshoot)
   - [Note](#note)
   - [CONTRIBUTE](#contribute)
+  - [Join My Telegram Channel](#join-my-telegram-channel)
   - [SUPPORT](#support)
 
 ## Major Airdrop
@@ -132,6 +133,11 @@ if you got error `Invalid ConstructorId` try to run this ```npm i telegram@2.22.
 ## CONTRIBUTE
 
 Feel free to fork and contribute adding more feature thanks. To get original unencrypted code just DM me on my social media original (index.js and src folder) are Obfuscated during build
+
+## Join My Telegram Channel
+
+Anyway i create new telegram channel just for sharing bot or airdrop, join here
+[**https://t.me/skeldrophunt**](https://t.me/skeldrophunt).
 
 ## SUPPORT
 
