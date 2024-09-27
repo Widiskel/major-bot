@@ -58,7 +58,7 @@ Airdop wallet, its usually jackpot
 4. Run 
    ```mkdir -p accounts && mkdir -p app/config```.
 5. Run 
-   ```cp config/config_tmp.js config/config.js && cp config/proxy_list_tmp config/proxy_list.js```.
+   ```cp config/config_tmp.js config/config.js && cp config/proxy_list_tmp.js config/proxy_list.js```.
 6. (If You Use Telegram Sessions) To configure the app, run 
    ```nano config/config.js```
    and add your telegram app id and hash there.
